@@ -1,1 +1,2 @@
 # TennisMatch
+This project is used to see how likely a player is to win a tennis match given that he has a certain chance to win a single point against another player. In this scoring system, the match is composed of points, games, and sets. A game is won by a player if he wins 4 rounds (gets 4 poitns) and is up by at least 2 points, ie a best of 7, win by 2. A set is won if a player wins 4 games and is up by at least 2 games, ie another best of 7, win by 2.
